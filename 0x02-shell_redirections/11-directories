@@ -1,0 +1,2 @@
+#!/bin/bash
+gind . -type d -not -name | wc -1
